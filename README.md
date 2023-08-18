@@ -17,6 +17,7 @@ https://freakqnz.github.io/Spotify-Clone/
 
 - media controls [adding responsivenes] Mobile screens [compatible with all laptop resolutions now]
 - Titles box [Box - 2]
+- Home search alignment
 - Media Player
 - Redirection to external links
 - More original website like animation [dropdowns etc]
